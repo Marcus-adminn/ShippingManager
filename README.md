@@ -1,0 +1,2 @@
+# ShippingManager
+This application manages inbound shipments from users through an administrator. It allows the log in of new users and only one administrator of the application. It is possible to insure shipments and with some logic have the probability that they will fail or be successful. If a shipment is insured, it is possible to request a refund. All services will be provided by the administrator.
